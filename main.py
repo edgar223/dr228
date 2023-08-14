@@ -2,13 +2,11 @@ import random
 a = random.randint(1, 9)
 print(a)
 
-
-
 # This is a sample Python script.
 
-# Press Shift+F10 to execute it or replace it with your code.
+# Press Shifhttps://github.com/edgar223/test22.gitt+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
+#isd
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
